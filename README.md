@@ -22,9 +22,17 @@ requirements.txt
 
 ---
 
-### 6. Create `requirements.txt`
+```markdown
+##Technologies
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Scikit-learn
+- Jupyter Notebook
 
-Right-click the main folder again and create:
+## Dataset
+UCI Heart Disease dataset (Cleveland)
 
-```text
-requirements.txt
+## Status
+In Progress
