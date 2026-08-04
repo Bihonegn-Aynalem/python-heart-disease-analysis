@@ -9,6 +9,20 @@ This project analyzes the UCI Heart Disease dataset using Python. The workflow i
 
 The project is intended for educational and portfolio purposes only and is not a medical diagnostic tool.
 
+## Exploratory Data Analysis
+
+### Heart Disease Distribution
+
+![Heart Disease Distribution](images/heart_disease_distribution.png)
+
+### Age Distribution
+
+![Age Distribution](images/age_distribution.png)
+
+### Cholesterol Distribution
+
+![Cholesterol Distribution](images/cholesterol_distribution.png)
+
 ## Repository Structure
 
 ```text
