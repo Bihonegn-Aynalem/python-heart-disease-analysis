@@ -34,9 +34,7 @@ models/
 README.md
 requirements.txt
 
----
-
-```markdown
+``` 
 ##Technologies
 - Python
 - Pandas
