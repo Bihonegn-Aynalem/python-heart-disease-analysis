@@ -23,6 +23,12 @@ The project is intended for educational and portfolio purposes only and is not a
 
 ![Cholesterol Distribution](images/Cholestrol_distribution.png)
 
+## Initial Findings
+
+- The dataset contains 303 patient records.
+- Heart disease cases are fairly balanced.
+- Most patients are between 50 and 65 years old.
+- Most cholesterol values fall between 200 and 300 mg/dL.
 ## Repository Structure
 
 ```text
@@ -47,4 +53,4 @@ requirements.txt
 UCI Heart Disease dataset (Cleveland)
 
 ## Status
-In Progress  
+Active -Future Improvements Planned  
