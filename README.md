@@ -13,15 +13,15 @@ The project is intended for educational and portfolio purposes only and is not a
 
 ### Heart Disease Distribution
 
-![Heart Disease Distribution](images/heart_disease_distribution.png)
+![Heart Disease Distribution](images/Heart_disease_distribution.png)
 
 ### Age Distribution
 
-![Age Distribution](images/age_distribution.png)
+![Age Distribution](images/Age_distribution.png)
 
 ### Cholesterol Distribution
 
-![Cholesterol Distribution](images/cholesterol_distribution.png)
+![Cholesterol Distribution](images/Cholesterol_distribution.png)
 
 ## Repository Structure
 
