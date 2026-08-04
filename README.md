@@ -21,7 +21,7 @@ The project is intended for educational and portfolio purposes only and is not a
 
 ### Cholesterol Distribution
 
-![Cholesterol Distribution](images/Cholesterol_distribution.png)
+![Cholesterol Distribution](images/Cholestrol_distribution.png)
 
 ## Repository Structure
 
